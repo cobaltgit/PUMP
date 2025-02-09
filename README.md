@@ -7,7 +7,8 @@ Saludos a todos, tengo el placer de presentaros PUMP, un sistema mejorado basado
 -	Todos lo sistemas han sido optimizados para que usen la menor frecuencia posible de procesador para mejorar el consumo
 -	Marcos creados en su mayoría y añadidos a todos los sistemas portátiles que los usan en su aspect ratio correcto
 -	Retroarch configurado y hotkeys para todos los sistemas
--	Ports listos para funcionar con la versión del firmware actual, incluyendo el Streets of Rage Remake dentro de la misma carpeta de Ports. La lista de ports sería:
+-	Ports listos para funcionar con la versión del firmware actual, incluyendo el Streets of Rage Remake dentro de la misma carpeta de Ports. La lista de ports sería: CannonBall, Cave Story, Dinothawr, Flashback, Mr. Boom, Rick Dangerous, Streets of Rage Remake y VVVVVV
+- Añadido en Apps la aplicación Comander, imprescindible, gracias a Jutleys
 
 Muchas gracias a Jutleys por su gran trabajo con Tomato que ha sido una inspiración para empezar a trabajar en PUMP, a Steward Fuu por su increíble trabajo con Drastic y el port de Streets of Rage Remake, y sobretodo a mis compañeros y amigos Ninoh-Fox y Alber por su ayuda y apoyo en este proyecto, sin Ninoh ayudándome con los cores y configuraciones, y sin Alber con su arte en los iconos, fondos y marcos, el resultado final de PUMP no sería ni de lejos el conseguido.
 
