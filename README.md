@@ -6,7 +6,7 @@ Saludos a todos.
 
 Las características principales son:
 
--	Unificación del estilo visual en iconos y fondos de cada sistema
+-	Unificación del estilo visual en iconos y fondos de cada sistema.
 -	Cambio de la ruta de las imágenes de cada juego para hacerlo compatible con los usados en **Koriki**, estando ahora dentro de la carpeta de las Roms de cada sistema, en la carpeta **"Imgs"**.
 -	Añadidos sistemas que hacen un total de **53**, ya sea compilando cores o actualizando los mismos que no funcionaban con esta nueva versión del FW, siendo estos: **Amiga, Arduboy, Atari 2600, Atari 5200, Atari 7800, Amstrad CPC, Capcom Play System 1, Capcom Play System 2, Capcom Play System 3, Commodore 64, DOOM, MS-DOS, Nintendo DS, Final Burn Neo, NES, Famicon Disk System, Game Boy, Game Boy Color, Game Boy Advance, Game Gear, Game & Watch, Lynx, MAME, Mega Drive, Master System, MSU1, Mega Drive MSU, MSX, Neo Geo CD, Neo Geo, Neo Geo Pocket, Magnavox Odyssey 2, Openbor, Pc Engine, Pc Engine CD, Pico 8, Pokemon Mini, Ports, Playstation, Quake, ScummVM, Sega 32X, Sega CD, Super Nintendo, SG-1000, Super Game Boy, Supervision, Tic-80, Virtual Boy, Wolfenstein 3D, WonderSwan, X68000, ZX Spectrum**.
 -	Todos lo sistemas han sido optimizados para que usen la menor frecuencia posible de procesador para mejorar el consumo.
