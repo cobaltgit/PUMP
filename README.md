@@ -16,7 +16,9 @@ Atajos de Trimui:
 
 - Subir y bajar volumen - Select + L/R
 - Subir y bajar el brillo - Start + L/R
-- Atajos de Retroarch:
+  
+Atajos de Retroarch:
+
 - Select + Y Mostrar/ocultar los FPS
 - Select + B Activar/desactivar el fastforward
 - Select + A Activar/desactivar la pausa
