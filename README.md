@@ -1,5 +1,5 @@
 ![IMAGEN CABECERA PUMP GITHUB](https://github.com/user-attachments/assets/0b40c339-fd66-49c6-9575-809e60643b36)
-Saludos a todos, tengo el placer de presentaros PUMP, un sistema mejorado basado en el sistema base de la Trimui Smart para el firmware 1.0. y 1.0.1. Las características principales de PUMP son:
+Saludos a todos, tengo el placer de presentaros PUMP, un sistema mejorado basado en el sistema base de la Trimui Smart para el firmware 1.0. y 1.0.1. Este proyecto empezo siendo solo un trabajo para mi mismo, luego pense en compartirlo con nuestra comunidad y termino siendo tan grande que decidí publicarlo aquí, espero que todos lo disfruteis. Las características principales de PUMP son:
 
 -	Unificación del estilo visual en iconos y fondos de cada sistema
 -	Cambio de la ruta de las imágenes de cada juego para hacerlo compatible con los usados en Koriki, estando ahora dentro de la carpeta de las Roms de cada sistema, en la carpeta Imgs
