@@ -1,6 +1,6 @@
 ![IMAGEN CABECERA PUMP GITHUB](https://github.com/user-attachments/assets/0b40c339-fd66-49c6-9575-809e60643b36)
 
-Greetings to everyone.
+Hello everyone.
 
 **Rparadise** presents **"PUMP"**, an improved system based on the Trimui Smart base system for firmware **1.0** and **1.0.1**. This project started as a personal endeavor, but in the end, we decided to share it with our community. It grew so much that we ultimately decided to release it here. We hope you all enjoy it.
 
