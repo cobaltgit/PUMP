@@ -13,9 +13,9 @@ The main features are:
 - Custom bezels created and added to all handheld systems that use them in their correct aspect ratio.
 - Preconfigured RetroArch and hotkeys for all systems.
 - Ports ready to run with the current firmware version, including **Streets of Rage Remake**, located inside the **"Ports"** folder. The list of ports includes: **CannonBall, Cave Story, Dinothawr, Flashback, Mr. Boom, Rick Dangerous, Streets of Rage Remake, and VVVVVV**.
-- Added the **"Comander"** application under **"Apps"**, an essential tool thanks to **Jutley**.
+- Added the **"Comander"** application under **"Apps"**, an essential tool thanks to **Jutleys**.
 
-A big thank you to Jutley for his amazing work on **"Tomato"** which served as inspiration to start working on PUMP, to **Steward Fuu** for his incredible work on **"Drastic"** and the Streets of Rage Remake port, and especially to my colleagues and friends **Ninoh-Fox** and **Alber** for their help and support in this project. Without Ninoh assisting me with the cores and configurations and without Alber's artistic touch on the icons, backgrounds, and bezels, the final result of PUMP would not have been nearly as successful.
+A big thank you to Jutleys for his amazing work on **"Tomato"** which served as inspiration to start working on PUMP, to **Steward Fuu** for his incredible work on **"Drastic"** and the Streets of Rage Remake port, and especially to my colleagues and friends **Ninoh-Fox** and **Alber** for their help and support in this project. Without Ninoh assisting me with the cores and configurations and without Alber's artistic touch on the icons, backgrounds, and bezels, the final result of PUMP would not have been nearly as successful.
 
 **Trimui Shortcuts:**
 
